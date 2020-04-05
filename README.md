@@ -1,1 +1,3 @@
-# mao
+# Mao
+
+This is my attempt to code the game of Mao...
